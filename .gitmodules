@@ -1,0 +1,3 @@
+[submodule "download_audio_video_tg_bot"]
+	path = download_audio_video_tg_bot
+	url = git@github.com:mykola-mmm/tg_voice_cloning.git
